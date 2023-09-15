@@ -1,2 +1,2 @@
 # Simple-Calculator
-This repository contains a basic console-based calculator program implemented in C++. The calculator allows users to perform four fundamental arithmetic operations: addition, subtraction, multiplication, and division.
+This repository contains a basic console-based calculator program implemented in C++. The calculator allows users to perform four fundamental arithmetic operations: addition, subtraction, multiplication, and division. It provides a user-friendly interface for inputting two numbers and selecting an operation, ensuring error handling for division by zero. The code is well-documented and serves as a helpful starting point for those learning C++ or looking to build upon a fundamental calculator application.
